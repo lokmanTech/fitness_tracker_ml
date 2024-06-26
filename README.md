@@ -11,10 +11,6 @@ In this project, we will create a fitness tracker application that uses machine 
 - Evaluating the model
 - Deploying the model in a fitness tracker application
 
-## YouTube Tutorial
-
-The project is based on the YouTube tutorial "Full Machine Learning Project — Coding a Fitness Tracker with Python" by Code It Like Them. You can watch the tutorial [here](https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K&index=1).
-
 ## Requirements
 
 - Python 3.7+

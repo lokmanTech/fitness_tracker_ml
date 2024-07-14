@@ -16,3 +16,11 @@ In this project, we will create a fitness tracker application that uses machine 
 - Python 3.7+
 - Libraries: pandas, numpy, scikit-learn, matplotlib, etc.
 
+## Project Progress
+Part 1 — Introduction, goal, quantified self, MetaMotion sensor, dataset
+Part 2 — Converting raw data, reading CSV files, splitting data, cleaning
+Part 3 — Visualizing data, plotting time series data
+Part 4 — Outlier detection, Chauvenet’s criterion, local outlier factor
+Part 5 — Feature engineering, frequency, low pass filter, PCA, clustering
+Part 6 — Predictive modelling, Naive Bayes, SVMs, random forest, neural network
+Part 7 — Counting repetitions, creating a custom algorithm
